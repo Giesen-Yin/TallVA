@@ -1,2 +1,0 @@
-# TallVA
-Repo for TallVA.
